@@ -2,6 +2,7 @@
   "recommendations": [
     "aaron-bond.better-comments",
     "bierner.github-markdown-preview",
+    "bradlc.vscode-tailwindcss",
     "christian-kohler.path-intellisense",
     "dbaeumer.vscode-eslint",
     "eamodio.gitlens",
