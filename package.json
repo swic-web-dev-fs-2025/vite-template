@@ -12,14 +12,12 @@
     "@eslint/js": "^9.37.0",
     "@eslint/json": "^0.13.2",
     "@eslint/markdown": "^7.4.0",
+    "@tailwindcss/vite": "^4.1.14",
     "eslint": "^9.37.0",
     "eslint-config-prettier": "^10.1.8",
     "globals": "^16.4.0",
     "prettier": "3.6.2",
+    "tailwindcss": "^4.1.14",
     "vite": "^7.1.7"
-  },
-  "dependencies": {
-    "@tailwindcss/vite": "^4.1.14",
-    "tailwindcss": "^4.1.14"
   }
 }
