@@ -37,15 +37,3 @@ npm run dev
 ```
 
 The server will start and provide you with a local URL (typically `http://localhost:5173`). Open this URL in your browser to view your application.
-
-## Common Commands
-
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run preview` - Preview production build locally
-
-## Troubleshooting
-
-- Make sure you have Node.js installed (v14 or higher recommended)
-- If you encounter errors, try deleting `node_modules` and running `npm i` again
-- Ensure you're in the correct project directory before running commands
